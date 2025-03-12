@@ -4,6 +4,7 @@
   "description": "Multiplayer Websocket Server for UNO game",
   "main": "index.js",
   "scripts": {
+    "build": "netlify deploy --prod",
     "start": "node index"
   },
   "keywords": [
